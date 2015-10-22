@@ -13,12 +13,7 @@ export class HomeComponent {
     constructor() {
         this.title = 'home';
 
-
-        //ObservableWrapper.subscribe(dataService.getCustomers(), res => {
-        //    this.customers = this.filteredCustomers = res.json();
-        //});
-        //
-        //this.sorter = new Sorter();
+        
     }
 }
 
