@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "guid": "bb90f269-754e-4e51-9e67-2a49a4c23e52",
+    "isActive": true,
+    "balance": "$3,473.90",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "name": "Bowers Russell",
+    "gender": "male",
+    "company": "SOPRANO",
+    "email": "bowersrussell@soprano.com",
+    "phone": "+1 (960) 505-3899",
+    "address": "312 Knapp Street, Shaft, Virgin Islands, 1132"
+  },
+  {
+    "id": 1,
+    "guid": "746b9442-2e59-45bd-a302-9c2e766ed339",
+    "isActive": true,
+    "balance": "$3,096.45",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "name": "Jeanne Sims",
+    "gender": "female",
+    "company": "FIREWAX",
+    "email": "jeannesims@firewax.com",
+    "phone": "+1 (891) 482-2127",
+    "address": "840 Cedar Street, Otranto, New Hampshire, 2992"
+  },
+  {
+    "id": 2,
+    "guid": "c714ef6e-3d1b-4b34-97ff-17118a6d69f0",
+    "isActive": false,
+    "balance": "$2,115.80",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "name": "Kimberley Hampton",
+    "gender": "female",
+    "company": "ACRODANCE",
+    "email": "kimberleyhampton@acrodance.com",
+    "phone": "+1 (925) 580-2132",
+    "address": "211 Bay Parkway, Escondida, Mississippi, 3374"
+  },
+  {
+    "id": 3,
+    "guid": "7ebd67da-76af-4ba9-8c47-5f2365dad8ca",
+    "isActive": true,
+    "balance": "$1,919.90",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "name": "Eaton Gallagher",
+    "gender": "male",
+    "company": "LUDAK",
+    "email": "eatongallagher@ludak.com",
+    "phone": "+1 (864) 474-3207",
+    "address": "968 Holly Street, Nicut, Virginia, 4528"
+  },
+  {
+    "id": 4,
+    "guid": "38a1b921-9a6b-4f8c-a22e-c0cf35b74c88",
+    "isActive": false,
+    "balance": "$3,315.21",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "name": "Eloise Hunter",
+    "gender": "female",
+    "company": "BALUBA",
+    "email": "eloisehunter@baluba.com",
+    "phone": "+1 (852) 577-2780",
+    "address": "690 Emerald Street, Sandston, Federated States Of Micronesia, 6477"
+  }
+]

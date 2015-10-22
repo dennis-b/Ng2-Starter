@@ -1,0 +1,14 @@
+<div>
+    <p>Users List</p>
+
+    <div [ng-grid]="gridConfig">
+        <div *ng-for="#user of users; #i = index"
+             [ng-grid-item]="{'dragHandle': '.handle'}">
+            <div class="handle title">
+                {{user.name}}
+            </div>
+            <div>{{user.email}}</div>
+            <p><a class="btn btn-primary" role="button" (click)="onUserSelect(user)">Go To User Page!</a></p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+{
+  "name": "angular-es6-es7-react",
+  "version": "0.0.1",
+  "description": "demo using ES6/7 classes and decorators with Angular 1.x and react",
+  "author": "Denis Borshchevski <dennisborsh@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/dennis-b/demo-app",
+  "main": "app.js",
+  "dependencies": {
+    "@reactivex/rxjs": "5.0.0-alpha.4",
+    "angular2": "2.0.0-alpha.44",
+    "bootstrap": "~3.3.0",
+    "lodash": "^3.10.0",
+    "reflect-metadata": "0.1.2",
+    "traceur-loader": "^0.6.3",
+    "zone.js": "0.5.8"
+  },
+  "devDependencies": {
+    "angular-highlightjs": "^0.4.3",
+    "babel": "5.8.23",
+    "babel-core": "5.8.23",
+    "babel-loader": "^5.3.2",
+    "bundle-loader": "^0.5.4",
+    "connect-modrewrite": "0.8.1",
+    "conventional-changelog": "0.0.17",
+    "css-loader": "^0.15.6",
+    "file-loader": "^0.8.4",
+    "font-awesome": "^4.4.0",
+    "gulp": "3.9.0",
+    "gulp-sourcemaps": "1.5.2",
+    "gulp-util": "^3.0.6",
+    "gulp-webpack-build": "^0.12.1",
+    "gulp-webserver": "^0.9.1",
+    "highlight.js": "^8.7.0",
+    "pre-commit": "1.0.10",
+    "raw-loader": "^0.5.1",
+    "react-templates": "^0.1.22",
+    "require-dir": "0.3.0",
+    "run-sequence": "1.1.1",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.5",
+    "webpack-config": "^0.7.0",
+    "webpack-stream": "^2.0.0"
+  },
+  "keywords": [
+    "angularjs",
+    "es6",
+    "es7",
+    "react",
+    "webpack"
+  ]
+}
